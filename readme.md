@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mohammed Parvez<br><br>I'm really enthusiastic about web development, and React is my preferred toolkit for constructing interactive user interfaces. React allows me to make components that can be reused, manage state proficiently, and take advantage of its virtual DOM for peak performance.<br><br>🔭 I’m currently working on Gorillamove<br><br>🌱 I’m currently learning React Native<br><br>💬 Ask me about React, Nextjs<br><br>📫 How to reach me mdparvez.devs@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/13tEmrzWB9sOU5X4_iKLESdNeGupSL9Dp/view?usp=share_link
-
+Hi 👋, I'm Mohammed Parvez<br><br>I'm really enthusiastic about web development, and React is my preferred toolkit for constructing interactive user interfaces. React allows me to make components that can be reused, manage state proficiently, and take advantage of its virtual DOM for peak performance.<br><br>🔭 I’m currently working on Gorillamove<br><br>🌱 I’m currently learning React Native<br><br>💬 Ask me about React, Nextjs<br><br>📫 How to reach me mdparvez.devs@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Al-IXl3RyryKrYWFEPgmijdu9fuiELS8/view?usp=sharing
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.parvez19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdparvez19) 
