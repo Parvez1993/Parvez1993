@@ -26,10 +26,7 @@ I'm passionate about **web development**, and **React** is my preferred toolkit 
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Parvez1993&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parvez1993&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvez1993&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Parvez1993&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Parvez1993&theme=gruvbox&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvez1993&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
