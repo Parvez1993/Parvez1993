@@ -4,7 +4,7 @@ Hi 👋, I'm Mohammed Parvez
 I'm passionate about **web development**, and **React** is my preferred toolkit for building interactive user interfaces. React allows me to create reusable components, manage state efficiently, and leverage its virtual DOM for peak performance.  
 
 🔭 I’m currently working on **Tenscores (USA)**  
-💬 Ask me about **React, Next.js, Zustand, Cypress, Jest**  
+💬 Ask me about **React, Next.js, Zustand, Cypress, Jest** , MERN 
 🌍 **Open to remote opportunities**  
 📫 How to reach me: [mdparvez.devs@gmail.com](mailto:mdparvez.devs@gmail.com)
 
