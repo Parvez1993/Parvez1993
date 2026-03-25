@@ -8,7 +8,6 @@ Most of my work lives in private repos (that's just how it goes), but here's wha
 - **Gononet** — E-commerce + ERP. 800 daily users, 70% performance improvement, 40% Google Maps cost reduction.
 - **FitSociety (Netherlands)** — Web + mobile (React Native) fitness platform. [fitsociety.io](https://www.fitsociety.io)
 
-Currently sharpening my DSA and diving deeper into the full MERN stack.
 
 Open to remote opportunities.
 
