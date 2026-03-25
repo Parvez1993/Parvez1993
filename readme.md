@@ -16,7 +16,7 @@ Open to remote opportunities.
 
 **Stack I work with daily**
 
-React · Next.js · TypeScript · Zustand · Redux Toolkit · Tailwind · Node.js · MongoDB
+React · Next.js · TypeScript · Zustand · Redux Toolkit · Tailwind · Node.js · MongoDB · Cypress · Jest · React Testing Library
 
 ---
 
