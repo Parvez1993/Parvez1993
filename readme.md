@@ -1,35 +1,23 @@
-# 💫 About Me
-Hi 👋, I'm Mohammed Parvez  
+# Hey, I'm Mohammed Parvez 👋
 
-I'm passionate about **web development**, and **React** is my preferred toolkit for building interactive user interfaces. React allows me to create reusable components, manage state efficiently, and leverage its virtual DOM for peak performance.  
+Frontend Engineer with 5+ years building production apps — from e-commerce platforms handling 800+ daily orders to ERP systems and US-based SaaS products.
 
-🔭 I’m currently working on **Tenscores (USA)**  
-💬 Ask me about **React, Next.js, Zustand, Cypress, Jest** , MERN 
-🌍 **Open to remote opportunities**  
-📫 How to reach me: [mdparvez.devs@gmail.com](mailto:mdparvez.devs@gmail.com)
+Most of my work lives in private repos (that's just how it goes), but here's what I've shipped:
 
+- **Tenscores (USA)** — Built the frontend from scratch. Next.js, ShadCN, Ag-Grid, Tailwind.
+- **Gononet** — E-commerce + ERP. 800 daily users, 70% performance improvement, 40% Google Maps cost reduction.
+- **FitSociety (Netherlands)** — Web + mobile (React Native) fitness platform. [fitsociety.io](https://www.fitsociety.io)
 
-## My resume
-[View My Resume](https://drive.google.com/file/d/1j0YBwtxS2KOD0YyJmoWSgzeg4xnIXw5J/view?usp=sharing)
+Currently sharpening my DSA and diving deeper into the full MERN stack.
 
----
-
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.parvez19) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdparvez19) 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Parvez1993)
+Open to remote opportunities.
 
 ---
 
-# 💻 Tech Stack
+**Stack I work with daily**
 
-**Frontend:** React, Next.js, React Native, Redux, Zustand, TailwindCSS, MUI, Ant Design, Bootstrap, Semantic UI React, Styled Components  
-**Backend:** Node.js, Express.js, MongoDB  
-**Testing:** Cypress, Jest  
-**Tools & Platforms:** Netlify, Vercel, Postman, Figma  
+React · Next.js · TypeScript · Zustand · Redux Toolkit · Tailwind · Node.js · MongoDB
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Parvez1993&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+📫 mdparvez.devs@gmail.com · [LinkedIn](https://linkedin.com/in/mdparvez19) · [Resume](https://drive.google.com/file/d/1j0YBwtxS2KOD0YyJmoWSgzeg4xnIXw5J/view?usp=sharing)
