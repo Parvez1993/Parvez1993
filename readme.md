@@ -8,6 +8,10 @@ I'm passionate about **web development**, and **React** is my preferred toolkit 
 🌍 **Open to remote opportunities**  
 📫 How to reach me: [mdparvez.devs@gmail.com](mailto:mdparvez.devs@gmail.com)
 
+
+## My resume
+[View My Resume](https://drive.google.com/file/d/1j0YBwtxS2KOD0YyJmoWSgzeg4xnIXw5J/view?usp=sharing)
+
 ---
 
 ## 🌐 Socials
