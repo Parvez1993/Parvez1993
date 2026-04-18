@@ -23,4 +23,4 @@ Cypress · Jest · React Testing Library
 
 ---
 
-📫 mdparvez.devs@gmail.com · [LinkedIn](https://linkedin.com/in/mdparvez19) · [Resume](https://drive.google.com/file/d/1j0YBwtxS2KOD0YyJmoWSgzeg4xnIXw5J/view?usp=sharing)
+- [LinkedIn](https://linkedin.com/in/mdparvez19) 
