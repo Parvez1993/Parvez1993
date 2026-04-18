@@ -23,4 +23,3 @@ Cypress · Jest · React Testing Library
 
 ---
 
-- [LinkedIn](https://linkedin.com/in/mdparvez19) 
