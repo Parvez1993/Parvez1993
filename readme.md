@@ -6,7 +6,7 @@ Most of my work lives in private repos (that's just how it goes), but here's wha
 
 - **Tenscores (Montreal, Canada)** — Built the frontend from scratch. Next.js, ShadCN, Ag-Grid, Tailwind.
 - **Gononet** — E-commerce + ERP. 800 daily users, 70% performance improvement, 40% Google Maps cost reduction.
-- **FitSociety (Netherlands)** — Web + mobile (React Native) fitness platform. [fitsociety.io](https://www.fitsociety.io)
+- **FitSociety (Netherlands)** — Web + mobile (React Native) fitness platform. 
 
 
 Open to remote opportunities.
