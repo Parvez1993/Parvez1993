@@ -13,4 +13,4 @@ Full-stack engineer with 5+ years building SaaS, ERP and e-commerce apps. Open t
 - **[Team-Pulse](https://github.com/Parvez1993/Team-Pulse-Public):** Next.js and Supabase team activity dashboard with role-based access and AI summaries. [Live demo](https://team-pulse-public.vercel.app)
 
 ## Stack
-React · Next.js · TypeScript · Supabase · Node · Express · PostgreSQL · Tailwind · Jest · Cypress
+React · Next.js · TypeScript · React Native · Redux Toolkit · Supabase · Node · Express · PostgreSQL · OpenAI API · Tailwind · Jest · Cypress
