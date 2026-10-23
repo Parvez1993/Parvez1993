@@ -1,25 +1,15 @@
 # Hey, I'm Mohammed Parvez 👋
 
-Frontend Engineer with 5+ years building production apps — from e-commerce platforms handling 800+ daily orders to ERP systems and Canada-based SaaS products.
+Full-stack engineer with 5+ years building SaaS, ERP and e-commerce apps. Open to remote roles.
 
-Most of my work lives in private repos (that's just how it goes), but here's what I've shipped:
+## Recent work (most of it is private)
+- **Tenscores (Canada):** built the frontend of an AI-powered SaaS dashboard, with an AI chat assistant, a lead-tracking script and CSV bulk import.
+- **Gononet:** built an e-commerce and ERP platform with 500K+ registered users and up to 1,000 orders a day across 6 branches. Load time cut from 4s to under 1.5s, Google Maps API cost down 70%.
+- **FitSociety (Netherlands):** web and React Native fitness platform.
 
-- **Tenscores (Montreal, Canada)** — Built the frontend from scratch. Next.js, ShadCN, Ag-Grid, Tailwind.
-- **Gononet** — E-commerce + ERP. 800 daily users, 70% performance improvement, 40% Google Maps cost reduction.
-- **FitSociety (Netherlands)** — Web + mobile (React Native) fitness platform. 
+## Public projects
+- **[RemoteRadar](https://github.com/Parvez1993/remoterader):** Node, Express, PostgreSQL, Redis and BullMQ API that aggregates remote jobs and ranks them with AI. [Live API docs](https://remoterader-production.up.railway.app/docs)
+- **[Team-Pulse](https://github.com/Parvez1993/Team-Pulse-Public):** Next.js and Supabase team activity dashboard with role-based access and AI summaries. [Live demo](https://team-pulse-public.vercel.app)
 
-
-Open to remote opportunities.
-
----
-
-**Stack I work with**
-
-React · Next.js · TypeScript · Zustand · Redux Toolkit · RTK Query · Tailwind · ShadCN · MUI
-
-Node.js · Express · MongoDB
-
-Cypress · Jest · React Testing Library
-
----
-
+## Stack
+React · Next.js · TypeScript · Supabase · Node · Express · PostgreSQL · Tailwind · Jest · Cypress
